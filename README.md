@@ -1,2 +1,4 @@
 # show-added-cards
-shows the day's added cards in the top toolbar of anki
+
+Trivial addon to show exact number of added cards in the day in toolbar instead of opening 
+the stats page and scrolling to the graph (ugh!)
